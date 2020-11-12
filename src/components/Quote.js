@@ -24,7 +24,7 @@ class Quote extends Component {
                                 <p>- Harsh Dwivedi -</p>
                             </Carousel.Item>
                             <Carousel.Item className="carousel-item">
-                                <h3>“Accept yourself, love yourself, and keep moving forward.<br />If you want to fly, you have to give up what weighs you down.”</h3>
+                                <h3>“Accept yourself, love yourself, and keep moving forward.<br />If you want to fly, you have to give up what weights you down.”</h3>
                                 <p>-Roy T. Bennett-</p>
                             </Carousel.Item>
                         </Carousel>
